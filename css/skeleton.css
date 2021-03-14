@@ -69,12 +69,12 @@
   .four.columns                   { width: 30.6666666667%; }
   .five.columns                   { width: 39.3333333333%; }
   .six.columns                    { width: 48%;            }
-  .six.columns.main                 { width: 48%; padding-top: 0%; overflow: scroll; padding-left: 10px}
+  .six.columns.main                 { width: 48%; padding-top: 0%; overflow: auto; padding-left: 10px}
 
 
   .seven.columns                  { width: 56.6666666667%; }
 
-  .seven.columns.main                 { width: 56.6666666667%; padding-top: 0%; overflow: scroll; padding-left: 10px}
+  .seven.columns.main                 { width: 56.6666666667%; padding-top: 0%; overflow: auto; padding-left: 10px}
 
 
   .eight.columns                  { width: 65.3333333333%; }
